@@ -1,2 +1,9 @@
 .DS_Store
 .obsidian
+
+# Uncomment to sync specific configurations:
+# !.obsidian/app.json
+# !.obsidian/appearance.json
+# !.obsidian/community-plugins.json
+# !.obsidian/core-plugins.json
+# !.obsidian/workspace.json
